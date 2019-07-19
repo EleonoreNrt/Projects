@@ -7,3 +7,11 @@ FINAL PROJECT : TIMES SERIES
   DATASET COMES FROM : https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
   
   SLIDES PRESENTATION : https://slides.com/eleonoreneret/deck-3
+
+*****************************
+
+
+MY GOAL : TO PREDICT FUTURE SALES IN NOVEMBER AND DECEMBER 2015 WITH DIFFERENT MODELS
+
+MODELS : AR, PROPHET, SARIMAX
+
